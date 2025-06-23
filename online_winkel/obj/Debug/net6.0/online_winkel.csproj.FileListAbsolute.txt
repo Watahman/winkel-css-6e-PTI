@@ -1,0 +1,14 @@
+C:\Users\vandewaeteree\OneDrive - PTI-Kortrijk\6ICWA\ICT\Mev Benoit\SEM 1\online_winkel\obj\Debug\net6.0\online_winkel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vandewaeteree\OneDrive - PTI-Kortrijk\6ICWA\ICT\Mev Benoit\SEM 1\online_winkel\obj\Debug\net6.0\online_winkel.AssemblyInfoInputs.cache
+C:\Users\vandewaeteree\OneDrive - PTI-Kortrijk\6ICWA\ICT\Mev Benoit\SEM 1\online_winkel\obj\Debug\net6.0\online_winkel.AssemblyInfo.cs
+C:\Users\vandewaeteree\OneDrive - PTI-Kortrijk\6ICWA\ICT\Mev Benoit\SEM 1\online_winkel\obj\Debug\net6.0\online_winkel.csproj.CoreCompileInputs.cache
+C:\Users\vandewaeteree\OneDrive - PTI-Kortrijk\6ICWA\ICT\Mev Benoit\SEM 1\online_winkel\bin\Debug\net6.0\online_winkel.exe
+C:\Users\vandewaeteree\OneDrive - PTI-Kortrijk\6ICWA\ICT\Mev Benoit\SEM 1\online_winkel\bin\Debug\net6.0\online_winkel.deps.json
+C:\Users\vandewaeteree\OneDrive - PTI-Kortrijk\6ICWA\ICT\Mev Benoit\SEM 1\online_winkel\bin\Debug\net6.0\online_winkel.runtimeconfig.json
+C:\Users\vandewaeteree\OneDrive - PTI-Kortrijk\6ICWA\ICT\Mev Benoit\SEM 1\online_winkel\bin\Debug\net6.0\online_winkel.dll
+C:\Users\vandewaeteree\OneDrive - PTI-Kortrijk\6ICWA\ICT\Mev Benoit\SEM 1\online_winkel\bin\Debug\net6.0\online_winkel.pdb
+C:\Users\vandewaeteree\OneDrive - PTI-Kortrijk\6ICWA\ICT\Mev Benoit\SEM 1\online_winkel\obj\Debug\net6.0\online_winkel.dll
+C:\Users\vandewaeteree\OneDrive - PTI-Kortrijk\6ICWA\ICT\Mev Benoit\SEM 1\online_winkel\obj\Debug\net6.0\refint\online_winkel.dll
+C:\Users\vandewaeteree\OneDrive - PTI-Kortrijk\6ICWA\ICT\Mev Benoit\SEM 1\online_winkel\obj\Debug\net6.0\online_winkel.pdb
+C:\Users\vandewaeteree\OneDrive - PTI-Kortrijk\6ICWA\ICT\Mev Benoit\SEM 1\online_winkel\obj\Debug\net6.0\online_winkel.genruntimeconfig.cache
+C:\Users\vandewaeteree\OneDrive - PTI-Kortrijk\6ICWA\ICT\Mev Benoit\SEM 1\online_winkel\obj\Debug\net6.0\ref\online_winkel.dll
